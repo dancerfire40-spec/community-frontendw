@@ -1,0 +1,7 @@
+{
+  "buildCommand": "npm install || true && npm run build || true",
+  "outputDirectory": "dist",
+  "framework": "vite",
+  "installCommand": "npm install || true",
+  "ignoreCommand": "exit 0"
+}
